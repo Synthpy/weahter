@@ -1,4 +1,0 @@
-curl  -s -k -X $'GET' \
-    -H $'Host: x.threatbook.cn' -H $'Connection: close' -H $'Upgrade-Insecure-Requests: 1' -H $'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36' -H $'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' -H $'Sec-Fetch-Site: same-site' -H $'Sec-Fetch-Mode: navigate' -H $'Sec-Fetch-User: ?1' -H $'Sec-Fetch-Dest: document' -H $'Referer: https://passport.threatbook.cn/' -H $'Accept-Encoding: gzip, deflate' -H $'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' -H $'Cookie: rememberme=3336cad4b3d1046095c8951b8b6c388ad408b3c3|caojfv@gmail.com|1599553873707' \
-    -b $'rememberme=3336cad4b3d1046095c8951b8b6c388ad408b3c3|caojfv@gmail.com|1599553873707' \
-    $'https://x.threatbook.cn/nodev4/ip/159.203.93.235'
